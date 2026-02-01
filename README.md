@@ -36,7 +36,10 @@
 
 ---
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bereket2356-bit)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=bereket2356-bit&show_icons=true)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit)
 
 
 ---
