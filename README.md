@@ -8,7 +8,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 College student passionate about **web development**
-- 🧠 Learning by building real projects (not just tutorials)
 - 🔥 Interested in **HTML, CSS, JavaScript, React**
 - 🤖 Exploring how **AI + Web** can work together
 - 🏋️‍♂️ Gym, productivity, and self-improvement mindset
@@ -16,9 +15,21 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Tools:** Git, GitHub, VS Code  
-- **Design:** Responsive UI, clean layouts, user-focused design  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/capcut/000000" width="40"/>
+</p>
 
 ---
 
@@ -37,7 +48,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bereket2356-bit&show_icons=true)
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit)
 
