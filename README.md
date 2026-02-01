@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Beki Teshe
+# 👋 Hey, I’m Bereket
 
-💻 Computer Science student | 🌐 Frontend & Web Enthusiast  
+💻 Software Engineering Student | 🌐 Frontend & Web Enthusiast  
 🚀 Building projects to level up my skills  
 ☕ Currently working on a Coffee House web project
 
