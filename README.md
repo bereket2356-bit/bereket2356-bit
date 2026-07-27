@@ -1,14 +1,14 @@
-# 👋 Hey, I’m Bereket
-
-💻 Software Engineering Student | 🌐 Frontend & Web Enthusiast  
-🚀 Building projects to level up my skills  
-☕ Currently working on a Coffee House web project
+# 👋 Hey, I'm Bereket
+💻 Software Engineering Student | 🌐 Frontend & Web Enthusiast
+🎨 Graphics Designer | Brand & Visual Identity
+🚀 Building projects to level up my skills
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 College student passionate about **web development**
-- 🔥 Interested in **HTML, CSS, JavaScript, React**
+- 🎓 College student passionate about **web and app development**
+- 🔥 Interested in **HTML, CSS, JavaScript, React , ReactNative**
+- 🎨 Passionate about **graphics design** — branding, pitch decks & visual storytelling
 - 🤖 Exploring how **AI + Web** can work together
 - 🏋️‍♂️ Gym, productivity, and self-improvement mindset
 
@@ -29,36 +29,42 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  
 </p>
 
 ---
 
+## 🎨 Graphics Design
+I design brand visuals, pitch decks, and marketing graphics — blending clean design principles with storytelling to help ideas land.
+
+- 🖌️ Tools: Canva, Figma
+- 📑 Focus areas: Pitch deck design, branding, social media graphics
+- 🔗 **Portfolio:** [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
+
+---
+
 ## 📌 Featured Projects
-- ☕ **Coffee House Website** – UI/UX focused web project  
-- 📱 **Social Media Management System** – content & automation concept  
+- 📱 **Social Media Management System** – content & automation concept
+- 🎨 **PitchStudio Global** – graphics design portfolio ([view here](https://pitchstudioglobal.vercel.app/))
 - 🧪 More projects coming soon…
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced JavaScript  
-- React components & state  
-- Clean code & project structure  
+- Advanced JavaScript
+- React components & state
+- Clean code & project structure
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit)
 
+---
+
+## 📫 Let's Connect
+- GitHub: [bereket2356-bit](https://github.com/bereket2356-bit)
+- 🎨 Graphics Portfolio: [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
 
 ---
 
-## 📫 Let’s Connect
-- GitHub: (https://github.com/bereket2356-bit)
-- Portfolio: *Coming Soon*
-
----
-
-> “Consistency beats motivation.” 🚀
+> "Consistency beats motivation." 🚀
