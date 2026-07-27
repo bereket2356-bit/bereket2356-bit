@@ -1,5 +1,6 @@
 # 👋 Hey, I'm Bereket
-💻 Software Engineering Student | 🌐 Frontend & Web Enthusiast
+💻 Software Engineering Student 
+🌐 Frontend & Web Enthusiast
 🎨 Graphics Designer | Brand & Visual Identity
 🚀 Building projects to level up my skills
 
