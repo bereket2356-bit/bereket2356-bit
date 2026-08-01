@@ -45,9 +45,7 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bereket2356-bit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket2356-bit&#x26;theme=dark&#x26;hide_border=true&#x26;background=0d1117" height="165">
 
 ---
 
