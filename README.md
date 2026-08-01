@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
     <a href="https://pitchstudioglobal.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0F0F0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   
 </div>
