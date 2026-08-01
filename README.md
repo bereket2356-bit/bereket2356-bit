@@ -53,7 +53,7 @@ I create brand visuals, pitch decks, and marketing graphics with clean design an
 
 **Backend**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Database**  
@@ -73,7 +73,9 @@ I create brand visuals, pitch decks, and marketing graphics with clean design an
 
 **Tools & Platforms**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor"/>
 </p>
 
 ---
