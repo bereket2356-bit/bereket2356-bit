@@ -25,20 +25,6 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 
 ---
 
-## 📌 Featured Projects
-- 📱 Social Media Management System – content & automation concept
-- 🎨 PitchStudio Global – graphics design portfolio ([view here](https://pitchstudioglobal.vercel.app/))
-- 🧪 More projects coming soon…
-
----
-
-## 🌱 Currently Learning
-- Advanced JavaScript
-- React components & state
-- Clean code & project structure
-
----
-
 ### 🌳 Tech Stack
 
 <p>
@@ -65,14 +51,6 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 </p>
 
 ---
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket2356-bit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
-```
-
 
 ## 📊 GitHub Stats
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit)
