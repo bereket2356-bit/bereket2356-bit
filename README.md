@@ -42,22 +42,30 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 </picture>
 
 ---
+---
 
 ### 📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket2356-bit&#x26;theme=dark&#x26;hide_border=true&#x26;background=0d1117" height="165">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket2356-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket2356-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket2356-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit)
+### 📫 Let's Connect
 
----
-
-## 📫 Let's Connect
-- GitHub: [bereket2356-bit](https://github.com/bereket2356-bit)
-- 🎨 Graphics Portfolio: [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
-
----
+<p align="center">
+  <a href="https://github.com/bereket2356-bit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://pitchstudioglobal.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 > "Consistency beats motivation." 🚀
