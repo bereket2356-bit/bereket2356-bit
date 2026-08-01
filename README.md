@@ -46,18 +46,15 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Streak (this one works) -->
-  <img src="https://streak-stats.demolab.com?user=bereket2356-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=bereket2356-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <!-- Alternative Stats Card (more stable) -->
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=bereket2356-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bereket2356-bit&theme=tokyonight" height="200" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=bereket2356-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit&theme=tokyonight" height="200" alt="Top Languages"/>
 </p>
 
 ---
