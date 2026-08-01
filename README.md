@@ -26,20 +26,21 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 College student passionate about **web and app development**
-- 🔥 Interested in **HTML, CSS, JavaScript, React, React Native**
-- 🎨 Passionate about **graphics design** — branding, pitch decks & visual storytelling
-- 🤖 Exploring how **AI + Web** can work together
-- 🏋️ Gym, productivity, and self-improvement mindset
+- 🎓 Software Engineering student passionate about **web & app development**
+- 🔥 Skilled in **HTML, CSS, JavaScript, React & React Native**
+- 🎨 Graphics Designer focused on branding, pitch decks & visual storytelling
+- 🤖 Exploring **AI + Web** integration
+- 🏋️ Gym, productivity & continuous self-improvement
 
 ---
 
-## 🎨 Graphics Design
-I design brand visuals, pitch decks, and marketing graphics — blending clean design principles with storytelling to help ideas land.
+### 🎨 Graphics Design
 
-- 🖌 Tools: Canva, Figma
-- 📑 Focus areas: Pitch deck design, branding, social media graphics
-- 🔗 Portfolio: [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
+I create brand visuals, pitch decks, and marketing graphics with clean design and strong storytelling.
+
+- 🖌 **Tools:** Canva, Figma  
+- 📑 **Focus:** Pitch decks, branding, social media graphics  
+- 🔗 **Portfolio:** [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
 
 ---
 
