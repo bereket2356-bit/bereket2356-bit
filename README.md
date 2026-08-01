@@ -46,9 +46,34 @@ I create brand visuals, pitch decks, and marketing graphics with clean design an
 
 ### 🌳 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github,ps,ai,figma,notion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+</p>
+
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js" />
+</p>
+
+**Database**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+**Mobile Development**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+</p>
+
+**UI/UX**  
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Tools & Platforms**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
