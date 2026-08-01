@@ -16,6 +16,29 @@
 
 ---
 
+## 🎨 Graphics Design
+I design brand visuals, pitch decks, and marketing graphics — blending clean design principles with storytelling to help ideas land.
+
+- 🖌 Tools: Canva, Figma
+- 📑 Focus areas: Pitch deck design, branding, social media graphics
+- 🔗 Portfolio: [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
+
+---
+
+## 📌 Featured Projects
+- 📱 Social Media Management System – content & automation concept
+- 🎨 PitchStudio Global – graphics design portfolio ([view here](https://pitchstudioglobal.vercel.app/))
+- 🧪 More projects coming soon…
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- React components & state
+- Clean code & project structure
+
+---
+
 ### 🌳 Tech Stack
 
 <p>
@@ -50,3 +73,16 @@
 </p>
 ```
 
+
+## 📊 GitHub Stats
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bereket2356-bit)
+
+---
+
+## 📫 Let's Connect
+- GitHub: [bereket2356-bit](https://github.com/bereket2356-bit)
+- 🎨 Graphics Portfolio: [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
+
+---
+
+> "Consistency beats motivation." 🚀
