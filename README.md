@@ -75,8 +75,6 @@ I create brand visuals, pitch decks, and marketing graphics with clean design an
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor"/>
-</p>
 
 ---
 
