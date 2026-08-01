@@ -18,29 +18,6 @@
 
 ### 🌳 Tech Stack
 
-Tech Stack
-├── 🖥️ Frontend
-│   ├── HTML5
-│   ├── CSS3
-│   ├── JavaScript
-│   ├── React
-│   └── React Native
-│
-├── ⚙️ Languages / Backend
-│   ├── Python
-│   └── C++
-│
-├── 🎨 Design & Creative
-│   ├── Adobe Photoshop
-│   ├── Adobe Illustrator
-│   ├── Figma
-│   ├── Canva
-│   └── Notion
-│
-└── 🛠️ Tools & Version Control
-    ├── Git
-    └── GitHub
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github,ps,ai,figma,canva,notion" />
 </p>
