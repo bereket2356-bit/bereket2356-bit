@@ -51,6 +51,18 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket2356-bit&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+
+</div>
+
+<br/><br/>
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
