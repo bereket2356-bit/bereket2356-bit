@@ -62,6 +62,14 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 
 ---
 
+<h3 align="center">🐍 Contribution Journey</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 ## 📫 Let's Connect
 - GitHub: [bereket2356-bit](https://github.com/bereket2356-bit)
 - 🎨 Graphics Portfolio: [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
