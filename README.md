@@ -62,13 +62,11 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 
 ---
 
-<h3 align="center">🐍 Contribution Journey</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Wakjira-Tesama/Wakjira-Tesama/output/github-contribution-grid-snake.svg" />
-</div>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bereket2356-bit/bereket2356-bit/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bereket2356-bit/bereket2356-bit/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/bereket2356-bit/bereket2356-bit/output/github-snake.svg">
+</picture>
 
 ## 📫 Let's Connect
 - GitHub: [bereket2356-bit](https://github.com/bereket2356-bit)
