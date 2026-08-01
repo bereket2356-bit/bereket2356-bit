@@ -48,7 +48,10 @@ I design brand visuals, pitch decks, and marketing graphics — blending clean d
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github,ps,ai,figma,canva,notion" />
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,github,ps,ai,figma,notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/>
+</p>
 ---
 
 # 📈 Contribution Graph
