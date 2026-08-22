@@ -39,7 +39,7 @@
 I create brand visuals, pitch decks, and marketing graphics with clean design and strong storytelling.
 
 - 🖌 **Tools:** Canva, Figma  
-- 📑 **Focus:** Pitch decks, branding, social media graphics  
+- 📑 **Focus:** Branding, social media graphics  
 - 🔗 **Portfolio:** [pitchstudioglobal.vercel.app](https://pitchstudioglobal.vercel.app/)
 
 ---
