@@ -120,4 +120,4 @@ I create brand visuals, pitch decks, and marketing graphics with clean design an
   <img src="https://komarev.com/ghpvc/?username=bereket2356-bit&label=Profile%20Views&color=0072ff&style=for-the-badge" />
 </div>
 
-> "Consistency beats motivation." 
+> "Consistency beat motivation." 
