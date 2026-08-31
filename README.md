@@ -1,7 +1,6 @@
-<p align="center">
+7th<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Bereket+Teshome;Software+Engineering+Student;Frontend+%26+Web+Enthusiast;Graphics+Designer" alt="Typing SVG" />
 </p>
-
 💻 Software Engineering Student · 🌐 Frontend & Web Enthusiast · 🎨 Graphics Designer | Brand & Visual Identity · 🚀 Building projects to level up my skills
 
 ---
@@ -120,4 +119,4 @@ I create brand visuals, pitch decks, and marketing graphics with clean design an
   <img src="https://komarev.com/ghpvc/?username=bereket2356-bit&label=Profile%20Views&color=0072ff&style=for-the-badge" />
 </div>
 
-> "Consistency beat motivation." 
+> "Consistency beats motivation." 
